@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-bds(mao7izg@ut4#v7jrbz3pm0lfozu@jkhvf+_sp_$_c-1h=9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["localhost:8000", "portfolio.indralight.net:8002"]
 
 
 # Application definition
