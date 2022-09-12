@@ -1,7 +1,9 @@
 # python-drf-training
 
 http://portfolio.indralight.net:8002/admin/
+
 indra / 1234
+
 ![image](https://user-images.githubusercontent.com/109490377/186569202-fea1ae08-009e-49d0-be2b-991b387e5783.png)
 
 
